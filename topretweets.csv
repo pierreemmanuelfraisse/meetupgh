@@ -1,4 +1,5 @@
 UserName,retweetedCount,Tweet
+<<<<<<< d1649052a15ba9189d12998095baa76d4c82fe6d
 SG InsideIT,8,[#sgithub] the speakers for tonight. @porteneuve @romaintaz @pastjohndk https://t.co/8mQBDKiiIk
 Jérémy,8,Les slides de @porteneuve à propos de la collaboration sur git et github https://t.co/lhmxF2nMkI #SGitHub
 Tanya Fairbend,6,Amir Jaballah prône l'esprit collaboratif avec GitHub #SGitHub https://t.co/l1gFGbY3L2
@@ -16,9 +17,53 @@ Frank Denis,3,Neat! > A fork of ext4-crypt using libsodium https://t.co/4XvT43cU
 SG InsideIT,2,[#sgithub] @pastjohndk https://t.co/bVo0BIGHEb
 Tristan Marion,2,RT pour une nouvelle télécommande #SGitHub
 SG InsideIT,2,[#Sgithub] @romaintaz https://t.co/GiFVFUkF7m
+=======
+Jérémy,20,Les slides de @porteneuve à propos de la collaboration sur git et github https://t.co/lhmxF2nMkI #SGitHub
+Frank Denis,16,What's in a great README? #sgithub https://t.co/b7OLVgbymI
+SG InsideIT,11,[#sgithub] the speakers for tonight. @porteneuve @romaintaz @pastjohndk https://t.co/8mQBDKiiIk
+Tanya Fairbend,8,Amir Jaballah prône l'esprit collaboratif avec GitHub #SGitHub https://t.co/l1gFGbY3L2
+Thierry Abaléa,8,.@romaintaz explaining how #SGitHub make an old 150yr lady  Société Générale  be popular like @ladygaga (internally) https://t.co/JtJOIqa0Eu
+FollowMyDev,7,#SGitHub Amir Jaballah #intro @github Meetup @SocieteGenerale https://t.co/eI2wopjJJ3
+Frank Denis,7,Neat! > A fork of ext4-crypt using libsodium https://t.co/4XvT43cU83 #SGitHub
+Frank Denis,6,TIL and it's gonna be a life changer: Fix conflicts only once with git rerere https://t.co/29MVPsWO1R #sgithub
+Alexis Slawny,6,La rolls des speaker est à la SG. Merci @romaintaz #sgithub https://t.co/gxrvxwGZXB
+SG InsideIT,6,[#sgithub #IT #societegenerale #github #meetup] great meetup thanks to all our speakers and all the participants. https://t.co/lj82MqLxGP
+Romain Linsolas ,6,La salle est pleine #sgithub https://t.co/PmhGpeHPdH
+François Chalifour,5,Ce soir  j'ai appris que GitHub teste en production et merge sur master si ça fonctionne. Wut #SGitHub
+Valentin Menardie,5,Github meetup! @SG_InsideIT #SGitHub https://t.co/GX0UTUZuHd
+Jérémy,4,Le tweet le plus retweeté de ce soir remportera de super goodies de la part de github. Allez lâchez vous ! #SGitHub
+SG InsideIT,4,[#meetup #sg #github #sgithub] starting-blocks-10min https://t.co/moW5MXqPlu
+Maniarr Développeur,4,Meetup Github j'y suis 😊  @github @finaxys @SG_InsideIT #SGitHub https://t.co/RZZFoLrukP
+Tristan Marion,4,Save dolphins  stop force push #SGitHub #SaveDolphins
+Maniarr Développeur,4,Petit cours sur les bonnes pratiques sur Github  meilleur cours de ma vie. Merci @porteneuve #SGitHub https://t.co/tOdVEBuO4D
+Bassem Asseh,4,Follow the @github meetup in Paris with @societegenerale on #SGitHub https://t.co/hjUt8IzIeG
+SG InsideIT,3,[#sgithub] @pastjohndk https://t.co/bVo0BIGHEb
+Romain Linsolas ,3,#sgithub @porteneuve sur scène ! https://t.co/NYSuqejaDz
+Tristan Marion,3,RT pour une nouvelle télécommande #SGitHub
+FollowMyDev,3,#SGitHub Paul St John  VP WW Sales @github @SG_InsideIT @finaxys https://t.co/oE0jtD9xnG
+Jérémy,3,40 mises en prod par jour chez github. Ils mergent sur master après la prod ! #SGitHub
+Alexis Slawny,3,Deux valent mieux qu'un pour répondre aux question! #sgithub https://t.co/5tQaxSObu8
+gyzpunk,3,La salle se rempli gentiment #sgithub https://t.co/w56uVhfXIL
+Valentin Menardie,3,@pastjohndk about social coding #SGitHub https://t.co/UXm03vmgXU
+Bassem Asseh,3,Fully packed room for #SGitHub  @djam4242 announcing that  the 10 most retweeted tweets will get @github goodies https://t.co/kvAQswOtvk
+Jérémy,3,Bonne pratique git de @porteneuve : si tu force push  tu tues des dauphins ! #SGitHub
+Loan Laux,3,Networking and pizza 👊🏻 #SGitHub https://t.co/7hJg5dXyG0
+Romain Linsolas ,3,Comme d'habitude  excellent talk de @porteneuve ! #sgithub
+Tanya Fairbend,3,Listening to Romain Linsolas at SG Meetup #SGitHub with #Finaxys https://t.co/FLb0BAi04y
+FollowMyDev,3,@github @github: Protect your GitHub account with 2FA. Get 20% off every U2F YubiKey: https://t.co/I4I9ysn5yJ #SGitHub @SG_InsideIT @finaxys
+Tristan Marion,3,Contre le svn obscur et la télécommande qui ne fonctionne pas #goGitHub #SGitHub #svnObscur https://t.co/dvYW1pfLVC
+Frank Denis,3,https://t.co/VbcCGjD5xm - Free  static hosting of a branch from a Github repository #sgithub
+Jérôme TAMARELLE,3,Merci @porteneuve pour tous ces excellents conseils sur #GitHub https://t.co/8eRzEIwan2 #SGitHub
+SG InsideIT,3,[#SGitHub] last speakers @AlainHelaili https://t.co/HKZXvSfu5m
+>>>>>>> Search at 2015-11-13 09:50:12
 P.-E. Fraisse,2,#sgithub Tonight!
+Loan Laux,2,.@porteneuve giving essential advices on how to properly commit on @GitHub with a unique sense of humor at #SGitHub
+SG InsideIT,2,[#Sgithub] @romaintaz https://t.co/GiFVFUkF7m
+Bassem Asseh,2,@romaintaz presenting the @SocieteGenerale developer success story with @github  #SGitHub https://t.co/6fYaj7V1JA
+Tanya Fairbend,2,Social coding is the futur says Paul St John at SG meetup #SGitHub
 SG InsideIT,2,[#sgithub] @porteneuve https://t.co/uZCZCEzUbF
 Jérôme TAMARELLE,2,Les commits c'est les legos si tu les fais mal c'est casse gueule. #SGitHub https://t.co/Wlf498gtra
+<<<<<<< d1649052a15ba9189d12998095baa76d4c82fe6d
 Alexis Slawny,2,Deux valent mieux qu'un pour répondre aux question! #sgithub https://t.co/5tQaxSObu8
 Valentin Menardie,2,@pastjohndk about social coding #SGitHub https://t.co/UXm03vmgXU
 Maniarr Développeur,2,Meetup Github j'y suis 😊  @github @finaxys @SG_InsideIT #SGitHub https://t.co/RZZFoLrukP
@@ -28,3 +73,53 @@ Rémi Andrieux,2,Meetup GitHub @ Société Générale cc @github @SocieteGeneral
 Frank Denis,2,https://t.co/VbcCGjD5xm - Free static hosting of a branch from a Github repository #sgithub
 Romain Linsolas ,2,Comme d'habitude excellent talk de @porteneuve ! #sgithub
 Jérémy,2,Bonne pratique git de @porteneuve : si tu force push tu tues des dauphins ! #SGitHub
+=======
+Tristan Marion,2,English session on #GitHub with @pastjohndk #SGitHub https://t.co/HhVBelKc6O
+Rémi Andrieux,2,Meetup GitHub @ Société Générale cc @github @SocieteGenerale #SGitHub https://t.co/ak965BzDcK
+FollowMyDev,2,#SGitHub Amir Jaballah  Alain Hélaïli & Paul St John - Meetup  @SG_InsideIT @github https://t.co/RXTyonZtJr
+Frank Denis,2,"If it's gonna take more than 5 seconds  create a new branch. If it's Java code  anything takes more than 5 seconds anyway" #SGitHub
+Alain Hélaïli,2,Pull request all the things!!! #SGitHub https://t.co/AnLTgPvaom
+Tristan Marion,1,#rebase VS #merge #SGitHub
+Paul Souche［Ξ］,1,My #sgithub family is now complete https://t.co/OYgoyoKKBI
+Alain Hélaïli,1,C'est parti!!! #sgithub https://t.co/sQB3a8dc9e
+Hertog Van Dré,1,Getting ready! #SGitHub @github @SocieteGenerale https://t.co/XLsOrbaAaw
+Bassem Asseh,1,When asked why use @github  @djam4242 : “because onboarding is straightforward”  #SGitHub
+kogepan,1,git commit -am "Meetup GitHub @ SG #SGitHub" git pull git push
+Tristan Marion,1,Tu sais que tu utilises trop Git quand tu fais des "svn pull" et des "svn push" #SGitHub
+Amir Jaballah,1,#sgithub thanks to the audience.  #meetup #github #societegenerale https://t.co/7cVw5EagEN
+Jimmy Zanzouri,1,[#SGithub] Surely best partner's logo so far! https://t.co/TSp1Q6eSVb
+FollowMyDev,1,#SGitHub la file d'attente pour le Meetup GitHub @SocieteGenerale https://t.co/peU6kXArfD
+gyzpunk,1,Le meetup @github à la SG va bientôt commencer ! Cc @SG_InsideIT #SGitHub https://t.co/D5dJytzhs1
+Bassem Asseh,1,#SGitHub @djam4242 : People other than developers are using @github in continuous delivery processes
+Bassem Asseh,1,@djam4242 introducing the #SGitHub meetup https://t.co/L84Xnh5rHv
+Christophe Godard,1,#SGitHub Excellente présentation de @porteneuve sur les tips avec #git et #github
+bachirov,1,Thanks to Christophe i realized that i don't know how to git #sgithub #gitrocks
+Bassem Asseh,1,@pastjohndk on #socialcoding and developers being the new #kingmakers  #SGithub https://t.co/5Fo2SReKCw
+Maniarr Développeur,1,Belle présentation d'EZ-Web par @romaintaz #SGitHub
+Samuel Kauffmann,1,Meetup GitHub à la société générale #sgithub https://t.co/rteyOf5m2m
+Alain Hélaïli,1,@maattdd @SG_InsideIT Super idée!!! #SGitHub
+FollowMyDev,1,#SGitHub en direct de l'amphi Valmy - Meetup GitHub @SocieteGenerale https://t.co/o0mlCJQpU4
+FollowMyDev,0,Student Developer Pack #sgithub @github @SG_InsideIT
+Xavier,0,Lots of common sense advices at #SGitHub  but it's always good to hear!
+bachirov,0,Seriously Github you test code on production #sgithub #gitrocks @iamdevloper
+Loan Laux,0,.@github is the 8th most popular website  with over 36 million visitors every month. #SGitHub https://t.co/g1cXKaUIYu
+Tristan Marion,0,Such wow  very GitHub #SGitHub
+FollowMyDev,0,#SGitHub Alain Hélaïli @SG_InsideIT https://t.co/hMinbt0i0e
+Loan Laux,0,New @github features unveiled tonight at #SGitHub! https://t.co/3Rs2TvcyE1
+Alvaro Campos,0,Lot of great new #Github features on the pipe by AlainHelaili #sgithub #students #aws #atom #opensource https://t.co/9mQrDgyceL
+bachirov,0,When i open my browser the morning i always check for notifications on @Github #sgithub #gitrocks
+Xavier,0,Happy to learn that at @GitHub they test on production  then merge on master if it's okay 😁 #SGitHub
+Christophe Godard,0,Collaboration is in center of Github according @pastjohndk from GitHub San Francisco #meetup #github #SGitHub https://t.co/PFuYAzxGMM
+Tanya Fairbend,0,At #sgithub Meetup GitHub
+FollowMyDev,0,#SGitHub best practices #Git #GitHub by Christophe Porteneuve https://t.co/IdapkWJlXU
+bachirov,0,Lot of great new #Github features on the pipe by @AlainHelaili #sgithub #students #aws #atom #opensource
+FollowMyDev,0,#SGitHub Romain Linsolas @github Meetup https://t.co/580FRnahBG
+Maniarr Développeur,0,Tout le monde l'a vu  entendu  MVP de la soirée  je nomme la télécommande! #SGitHUb
+Jérôme TAMARELLE,0,TeamCity est une belle alternative à #jenkins pour intégration continue https://t.co/Pqot7M8UBO #SGitHub
+Frank Denis,0,Any followers at #sgithub ? https://t.co/0V60nlwenn
+Maniarr Développeur,0,En résumé du talk @pastjohndk Github c'est bien  Octocats c'est mieux. #SGitHub
+Matthieu,0,Qui a le compte Github le plus ancien ? Ya un cadeau pour les early adopters? #SGithub @SG_InsideIT
+Maniarr Développeur,0,Uhm  on dirait que @porteneuve  n'aime pas le Java  peut être même avant la télécommande #SGitHub
+Jérôme TAMARELLE,0,If a pull request stay unmerged for more than 4 days. The project may be in trouble. #SGitHub
+Romain Linsolas ,0,Dernier talk #sgithub https://t.co/FZaMc3Vgcy
+>>>>>>> Search at 2015-11-13 09:50:12
